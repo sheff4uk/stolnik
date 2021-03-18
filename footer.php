@@ -1,7 +1,7 @@
 <footer>
 	<div class="page">
 		<section class="footer-section-navigation">
-			<img src="images/logo_gray.png" alt="Мебельная фабрика СТОЛЬНИК">
+			<img src="images/logo_white.svg" style="width: 120px;" alt="Мебельная фабрика СТОЛЬНИК">
 			<span class="copyright">ИП Шабалин Н.В.</span>
 			<span class="copyright">ИНН 434700832072</span>
 <!--			<span class="address copyright">610044, г.Киров, ул.Луганская 59в</span>-->
