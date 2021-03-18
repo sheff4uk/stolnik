@@ -110,7 +110,7 @@
 						<div class='icon_wrap'>
 							".($v[5] ? "<div class='ic_new'></div>" : "")."
 						</div>
-						<div style='text-align: center; position: absolute; bottom: 20px; width: 100%; white-space: nowrap;'>{$pref}<span class='price'>{$price}</span> р.</div>
+						<div style='text-align: center; position: absolute; bottom: 20px; width: 100%; white-space: nowrap;'>{$pref}<span class='price'>{$price}</span></div>
 						<hr>
 					</div>
 				";
@@ -133,7 +133,7 @@
 						<div class='icon_wrap'>
 							".($v[5] ? "<div class='ic_new'></div>" : "")."
 						</div>
-						<div style='text-align: center; position: absolute; bottom: 20px; width: 100%; white-space: nowrap;'><span class='price'>{$price}</span> р.</div>
+						<div style='text-align: center; position: absolute; bottom: 20px; width: 100%; white-space: nowrap;'><span class='price'>{$price}</span></div>
 						<hr>
 					</div>
 				";
