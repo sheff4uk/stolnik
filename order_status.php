@@ -1,7 +1,7 @@
 <?
 	include "data.php";
-	$title = "ПРЕСТОЛ столы и стулья официальный сайт кировской фабрики";
-	$description = "Торговый каталог Мебельной фабрики Престол. Столы и стулья для кухни по индивидуальным заказам.";
+	$title = "СТОЛЬНИК мебель для трапез официальный сайт кировской фабрики";
+	$description = "Торговый каталог Мебельной фабрики Стольник. Столы и стулья для кухни по индивидуальным заказам.";
 	include "header.php";
 
 	// Отправка сообщения
@@ -73,7 +73,7 @@
 	}
 </style>
 
-<section style="background-color: #653033; padding: 100px 0; color: white; text-align: center; font-size: 1em;">
+<section style="background-color: #d94733; padding: 100px 0; color: white; text-align: center; font-size: 1em;">
 	<section class="page">
 		<?
 		if($_POST["mtel"]) {

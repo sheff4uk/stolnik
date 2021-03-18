@@ -10,7 +10,7 @@
 	}
 	$product = $products[$type][$name];
 
-	$title = $type_n." ".$product[0]." от кировской фабрики ПРЕСТОЛ";
+	$title = $type_n." ".$product[0]." от кировской фабрики СТОЛЬНИК";
 	$description = $type_n." ".$product[0]." ".$product[3];
 	include "header.php";
 
@@ -19,7 +19,7 @@
 	$pos = array_search ($name,$a);
 	$prev = ($pos == 0) ? ($count - 1) : ($pos - 1);
 	$next = ($pos == $count - 1) ? 0 : ($pos + 1);
-	$pic = "<img alt='Престол' src='images/m_logo.png' style='vertical-align: middle;' title='Фирменный салон &laquo;Престол: столы и стулья&raquo;'>";
+	$pic = "<img alt='Стольник' src='images/m_logo.png' style='vertical-align: middle;' title='Фирменный салон &laquo;СТОЛЬНИК мебель для трапез&raquo;'>";
 ?>
 
 <section id="main">
@@ -198,7 +198,7 @@
 					}
 				?>
 				</p>
-				<p>* данная цена действительна только в фирменных салонах <a href="address.php">Престол: столы и стулья</a>, помеченных знаком <?=$pic?></p>
+<!--				<p>* данная цена действительна только в фирменных салонах <a href="address.php">СТОЛЬНИК мебель для трапез</a>, помеченных знаком <?=$pic?></p>-->
 			</section>
 		</div>
 	</section>

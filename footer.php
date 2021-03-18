@@ -1,9 +1,10 @@
 <footer>
 	<div class="page">
 		<section class="footer-section-navigation">
-			<img src="images/logo_gray.png" alt="Мебельная фабрика ПРЕСТОЛ">
-<!--			<span class="copyright">2011-<?=( date("Y") )?> &copy; ООО "Престол"</span>-->
-			<span class="address copyright">610044, г.Киров, ул.Луганская 59в</span>
+			<img src="images/logo_gray.png" alt="Мебельная фабрика СТОЛЬНИК">
+			<span class="copyright">ИП Шабалин Н.В.</span>
+			<span class="copyright">ИНН 434700832072</span>
+<!--			<span class="address copyright">610044, г.Киров, ул.Луганская 59в</span>-->
 <!--			<a href="tel:89091317732" class="footer_phone">8 (909) 131-77-32</a>-->
 		</section>
 		<section class="footer-section-navigation">
@@ -20,6 +21,7 @@
 			</nav>
 		</section>
 		<section class="footer-section-navigation social">
+<!--
 			<p>Присоединяйтесь к нам в соц. сетях</p>
 			<ul>
 				<li>
@@ -31,6 +33,7 @@
 			<br>
 			<br>
 			<a href="https://webmaster.yandex.ru/siteinfo/?site=https://fabrikaprestol.ru"><img width="88" height="31" alt="" border="0" src="https://yandex.ru/cycounter?https://fabrikaprestol.ru&theme=light&lang=ru"/></a>
+-->
 		</section>
 	</div>
 </footer>

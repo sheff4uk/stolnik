@@ -32,7 +32,7 @@ a {
 }
 
 a:hover, .shop.state_open a {
-	color: #D65C4F !important
+	color: #653033 !important
 }
 
 .breadcrumbs {
@@ -46,7 +46,7 @@ a:hover, .shop.state_open a {
 }
 
 #nav {
-	background-color: #653033;
+	background-color: #d94733;
 	overflow: hidden;
 	height: 35px;
 	box-shadow: 0 0 30px #333;
@@ -63,7 +63,7 @@ a:hover, .shop.state_open a {
 }
 
 #nav a {
-	color: #ccc;
+	color: #fff;
 	display: inline-block;
 	padding: 10px;
 	text-decoration: none;
@@ -257,9 +257,9 @@ h1 {
 
 footer {
 	padding: 40px 0;
-/*	background-color: #653033;*/
-	background: #653033 url(/images/venge.jpg) repeat-x;
-	color: #ccc;
+/*	background-color: #d94733;*/
+	background: #d94733 url(/images/oak.jpg) repeat-x;
+	color: #fff;
 	font-size: 15px;
 	height: 200px;
 	box-shadow: 0 0 40px #333;
@@ -376,7 +376,7 @@ footer .footer_phone {
 #advice:hover {
 	opacity: .7;
 	text-shadow: none;
-	color: #653033 !important;
+	color: #d94733 !important;
 	}
 
 #advice i {
@@ -392,6 +392,8 @@ footer .footer_phone {
 .footer-section-navigation {
 	width: 300px;
 	margin: 0;
+	-webkit-filter: drop-shadow(0px 0px 5px #000);
+	filter: drop-shadow(0px 0px 5px #000);
 }
 
 .prod_list_wrap {
@@ -477,7 +479,7 @@ background-color:#fff
 ::-webkit-scrollbar-thumb {
 -webkit-border-radius: 0px;
 border-radius: 0px;
-background-color:#653033;
+background-color:#d94733;
 }
 
 /*
@@ -594,7 +596,7 @@ width: 6px;
 .map {
 	height: 0px;
 	overflow: hidden;
-	box-shadow: 0px 20px 20px -20px #653033 inset, 0px -20px 20px -20px #653033 inset;
+	box-shadow: 0px 20px 20px -20px #d94733 inset, 0px -20px 20px -20px #d94733 inset;
 	transition: .5s ease-in-out;
 }
 .shop.state_open .map {
