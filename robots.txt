@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://fabrikaprestol.ru/sitemap.xml
+Sitemap: https://stolnik.su/sitemap.xml
