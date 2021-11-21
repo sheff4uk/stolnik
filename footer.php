@@ -15,6 +15,7 @@
 					<li><a href="address.php">ГДЕ КУПИТЬ</a></li>
 					<li><a href="contact.php">КОНТАКТЫ</a></li>
 					<li><a href="about.php">О НАС</a></li>
+					<li><a href="gallery.php">ГАЛЕРЕЯ</a></li>
 					<li><a href="certificates.php">СЕРТИФИКАТЫ</a></li>
 					<li><a href="sout.php">СОУТ</a></li>
 				</ul>
