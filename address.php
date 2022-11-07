@@ -29,44 +29,44 @@
 				<li class="shop" id="megadom">
 <!--					<?=$pic?>-->
 					ТЦ «Мегадом» - корпус В - ул. Блюхера, 39 <a href="tel:+79195241680"><i class="fas fa-phone"></i>+7 919 524 16 80</a>
-<!--					<a href="#megadom" class="map_btn" title="Посмотреть на карте"><i class="fas fa-map-marked-alt"></i> Карта</a>-->
+					<a href="#megadom" class="map_btn" title="Посмотреть на карте"><i class="fas fa-map-marked-alt"></i> Карта</a>
 					<div class="map">
-						<div style="height: 400px;"><iframe src="https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=1119708208" width="100%" height="400" frameborder="0"></iframe></div>
+						<div style="height: 400px;">
+							<iframe src="https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=121917433788" width="100%" height="400" frameborder="0"></iframe>
+						</div>
 					</div>
 				</li>
 			</ul>
 			<h4>Екатеринбург</h4>
 			<ul>
-				<li class="shop" id="yasen">
-<!--					<?=$pic?>-->
-					ТЦ «Ясень» - ул. Красных командиров, 72 <a href="tel:+79041726464"><i class="fas fa-phone"></i>+7 904 172 64 64</a>
-<!--					<a href="#yasen" class="map_btn" title="Посмотреть на карте"><i class="fas fa-map-marked-alt"></i> Карта</a>-->
-					<div class="map">
-						<div style="height: 400px;"><iframe src="https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=1753270602" width="100%" height="400" frameborder="0"></iframe></div>
-					</div>
-				</li>
 				<li class="shop" id="klen">
 <!--					<?=$pic?>-->
-					ТЦ «Клён» - ул. П. Лумумбы, 38 <a href="tel:+79826766158"><i class="fas fa-phone"></i>+7 982 676 61 58</a>
-<!--					<a href="#klen" class="map_btn" title="Посмотреть на карте"><i class="fas fa-map-marked-alt"></i> Карта</a>-->
+					ТЦ «Клён» - ул. П. Лумумбы, 38 <a href="tel:+79506329090"><i class="fas fa-phone"></i>+7 950 632 90 90</a>
+					<a href="#klen" class="map_btn" title="Посмотреть на карте"><i class="fas fa-map-marked-alt"></i> Карта</a>
 					<div class="map">
-						<div style="height: 400px;"><iframe src="https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=45085603722" width="100%" height="400" frameborder="0"></iframe></div>
+						<div style="height: 400px;">
+							<iframe src="https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=101225294556" width="100%" height="400" frameborder="0"></iframe>
+						</div>
 					</div>
 				</li>
 				<li class="shop" id="gulliver">
 <!--					<?=$pic?>-->
 					ТЦ «Гулливер» - ул. 40 лет ВЛКСМ, 38 <a href="tel:+79002051927"><i class="fas fa-phone"></i>+7 900 205 19 27</a>
-<!--					<a href="#gulliver" class="map_btn" title="Посмотреть на карте"><i class="fas fa-map-marked-alt"></i> Карта</a>-->
+					<a href="#gulliver" class="map_btn" title="Посмотреть на карте"><i class="fas fa-map-marked-alt"></i> Карта</a>
 					<div class="map">
-						<div style="height: 400px;"><iframe src="https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=1741635597" width="100%" height="400" frameborder="0"></iframe></div>
+						<div style="height: 400px;">
+							<iframe src="https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=73717768691" width="100%" height="400" frameborder="0"></iframe>
+						</div>
 					</div>
 				</li>
 				<li class="shop" id="ema">
 <!--					<?=$pic?>-->
 					ТЦ «ЭМА» - Верх-Исетский бульвар, 13 <a href="tel:+79028792799"><i class="fas fa-phone"></i>+7 902 879 27 99</a>
-<!--					<a href="#ema" class="map_btn" title="Посмотреть на карте"><i class="fas fa-map-marked-alt"></i> Карта</a>-->
+					<a href="#ema" class="map_btn" title="Посмотреть на карте"><i class="fas fa-map-marked-alt"></i> Карта</a>
 					<div class="map">
-						<div style="height: 400px;"><iframe src="https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=229434879909" width="100%" height="400" frameborder="0"></iframe></div>
+						<div style="height: 400px;">
+							<iframe src="https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=187273769375" width="100%" height="400" frameborder="0"></iframe>
+						</div>
 					</div>
 				</li>
 			</ul>
